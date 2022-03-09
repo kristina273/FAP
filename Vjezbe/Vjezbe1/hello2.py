@@ -1,0 +1,1 @@
+print("Ovoo je hello u zadatku 2. ")
